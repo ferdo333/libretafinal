@@ -1,0 +1,19 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+
+    <string-array name="ramo_array">
+
+        <item>Lenguaje</item>
+        <item>Matemática</item>
+        <item>Historia</item>
+        <item>Biología</item>
+        <item>Química</item>
+        <item>Física</item>
+        <item>Educación Física</item>
+        <item>Electivo </item>
+
+    </string-array>
+
+
+
+</resources>

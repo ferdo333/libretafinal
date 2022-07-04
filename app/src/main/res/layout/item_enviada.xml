@@ -1,0 +1,34 @@
+<?xml version="1.0" encoding="utf-8"?>
+<androidx.constraintlayout.widget.ConstraintLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent">
+
+    <LinearLayout xmlns:android="http://schemas.android.com/apk/res/android"    android:layout_width="match_parent"
+        android:layout_height="match_parent"
+        android:orientation="vertical"
+        android:padding="12dp">
+        <TextView
+            android:id="@+id/item_enviada_tv_id"
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content"
+            android:text="#ID"
+            android:textColor="#74000000"
+            android:textSize="8sp"
+            android:textStyle="italic" />
+        <TextView
+            android:id="@+id/item_enviada_tv_title"
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content"
+            android:text="Asunto" />
+        <TextView
+            android:id="@+id/item_enviada_tv_description"
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content"
+            android:text="Descripcion" />
+
+
+
+    </LinearLayout>
+
+
+</androidx.constraintlayout.widget.ConstraintLayout>
